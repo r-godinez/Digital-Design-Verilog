@@ -1,8 +1,8 @@
 # **FPGA Projects**
 This highlights a collection of my projects I developed using Verilog HDL and implemented on a Nexys A7 100t FPGA board demonstrating a range of functionalities and design techniques.
 
-![alt text](imgs/NexysA7.jpg)
+<img align="left" src="imgs/NexysA7.jpg" alt="Nexys A7 100t FPGA" width="250" height="175">
 
-![alt text](imgs/NexysA7-in-use.jpg)
+<img align="center" src="imgs/NexysA7-in-use.jpg" alt="Nexys A7 100t FPGA" width="250" height="175">
 
-![alt text](imgs/NexysA7-top.jpg)
+<img align="center" src="imgs/NexysA7-top.jpg" alt="Nexys A7 100t FPGA" width="500" height="350">
